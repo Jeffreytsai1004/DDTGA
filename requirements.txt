@@ -1,0 +1,5 @@
+customtkinter==5.2.2
+Pillow==11.0.0
+Wand==0.6.13
+pyinstaller==6.11.0
+packaging==23.2

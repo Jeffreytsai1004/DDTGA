@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<policymap>
+  <policy domain="coder" rights="read|write" pattern="TGA" />
+  <policy domain="coder" rights="read|write" pattern="DDS" />
+  <policy domain="coder" rights="read|write" pattern="*" />
+</policymap>

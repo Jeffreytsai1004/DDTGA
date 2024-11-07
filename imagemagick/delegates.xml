@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<delegatemap>
+  <delegate decode="dds" command="convert &quot;%i&quot; &quot;%o&quot;"/>
+  <delegate decode="tga" command="convert &quot;%i&quot; &quot;%o&quot;"/>
+</delegatemap>
